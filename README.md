@@ -1,4 +1,4 @@
 
 ---
-permalink: /blogs/index.html
+permalink: /index.html
 ---
